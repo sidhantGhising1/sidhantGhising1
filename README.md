@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sidhant Ghising</h1>
 <h3 align="center">A tech enthusiast and backend developer from Nepal</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sidhantghising1" alt="sidhantghising1" /></a> </p>
+
 
 - 🌱 I’m currently learning **Golang**
 
